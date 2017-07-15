@@ -1,2 +1,0 @@
-# qampus.github.io
-Qampus
